@@ -1,0 +1,4 @@
+NUMPY
+MATPLOTLIB
+PANDAS
+requests
